@@ -57,10 +57,16 @@
   <ItemGroup>
     <Compile Include="FirstTest.cs" />
     <Compile Include="Pages\GooglePage.cs" />
+    <Compile Include="Pages\GooglePOM.cs" />
+    <Compile Include="Pages\Login.cs" />
+    <Compile Include="Pages\PropertyDetailsPage.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="NavigationSamples.cs" />
     <Compile Include="NavigationExercises.cs" />
     <Compile Include="GooglePageTest.cs" />
+    <Compile Include="GooglePOMTest.cs" />
+    <Compile Include="LoginTest.cs" />
+    <Compile Include="PropertyDetailsTest.cs" />
     <Compile Include="WebElementExercises.cs" />
     <Compile Include="WebElementSamples.cs" />
     <Compile Include="WebDriverSamples.cs" />
